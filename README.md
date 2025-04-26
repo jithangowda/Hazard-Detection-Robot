@@ -9,6 +9,8 @@ It links four individual components that work together:
 - [Flask Server Code](https://github.com/jithangowda/Flask-Robot.git)
 
 Each of these components has its own repository, and the **master repo** is only for linking them together.
+**To get started:**  
+Clone each repository individually and follow its respective `README.md` for setup and usage instructions.
 
 ---
 
