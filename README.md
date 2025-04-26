@@ -10,11 +10,5 @@ It links four individual components that work together:
 
 Each of these components has its own repository, and the **master repo** is only for linking them together.
 
----
-
 **To get started:**  
 Clone each repository individually and follow its respective `README.md` for setup and usage instructions.
-
-
-
-
