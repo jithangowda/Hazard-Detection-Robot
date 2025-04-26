@@ -1,0 +1,12 @@
+[submodule "ESP-Robot"]
+	path = ESP-Robot
+	url = https://github.com/jithangowda/ESP-Robot.git
+[submodule "ESP-8266-Robot"]
+	path = ESP-8266-Robot
+	url = https://github.com/jithangowda/ESP-8266-Robot.git
+[submodule "ESP-CAM-Robot"]
+	path = ESP-CAM-Robot
+	url = https://github.com/jithangowda/ESP-CAM-Robot.git
+[submodule "Flask-Robot"]
+	path = Flask-Robot
+	url = https://github.com/jithangowda/Flask-Robot.git
