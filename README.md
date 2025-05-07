@@ -15,5 +15,5 @@ Each of these components has its own repository, and the **master repo** is only
 Clone each repository individually and follow its respective `README.md` for setup and usage instructions.
 
 ---
-![Robot Image 1]([images/system_overview.png](https://github.com/jithangowda/Hazard-Detection-Robot/blob/7d77a5efeeb3d914eb2a3b5cd952de0b82e68893/r1.png))
+![System Architecture](images/r1.png)
 
