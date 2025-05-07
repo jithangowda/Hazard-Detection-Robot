@@ -16,8 +16,8 @@ Clone each repository individually and follow its respective `README.md` for set
 
 ---
 
-<p float="left">
-  <img src="images/r1.png" alt="r1" height="200"/>
-  &nbsp;&nbsp;
-  <img src="images/r3.png" alt="r3" height="200"/>
+<p>
+  <img src="images/r1.png" alt="r1" width="45%" />
+  <img src="images/r2.png" alt="r2" width="45%" />
+  <img src="images/r3.png" alt="r3" width="45%" />
 </p>
