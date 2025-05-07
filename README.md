@@ -15,5 +15,6 @@ Each of these components has its own repository, and the **master repo** is only
 Clone each repository individually and follow its respective `README.md` for setup and usage instructions.
 
 ---
-![System Architecture](images/r1.png)
+
+<img src="images/system_overview.png" alt="Robot1" height="200"/>
 
