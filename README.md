@@ -16,5 +16,5 @@ Clone each repository individually and follow its respective `README.md` for set
 
 ---
 
-<img src="images/system_overview.png" alt="Robot1" height="200"/>
+<img src="images/r1.png" alt="Robot1" height="200"/>
 
